@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a front-end Developer with strong UI/UX skills and a Bachelor's degree in Computer Science.<br>Experienced in creating captivating and user-friendly interfaces, I transform design concepts into functional front-end implementations using HTML, CSS, JavaScript, and Angular.</p>
+<p align="left">Front end Developer and UI/UX Designer with 3+ years of experience building responsive, user-focused web applications and digital products. Proficient in Angular, JavaScript, TypeScript, and Figma, with expertise in creating scalable design systems and seamless user interfaces. Experienced in developing and optimizing B2B, B2C, and SaaS platforms, enhancing usability and supporting business growth.</p>
 
 ###
 
@@ -49,14 +49,6 @@
 <div align="left">
   <a href="https://www.linkedin.com/in/ammarbenyasser0/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=for-the-badge" height="30" alt="linkedin logo"  />
-  </a>
-  <img width="4" />
-  <a href="https://twitter.com/ammarBenYasser0" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=black&style=for-the-badge" height="30" alt="twitter logo"  />
-  </a>
-  <img width="4" />
-  <a href="https://www.behance.net/ammarBenYasser0" target="_blank">
-    <img src="https://img.shields.io/badge/Behance-1769FF?logo=behance&logoColor=white&style=for-the-badge" height="30" alt="behance logo"  />
   </a>
 </div>
 
